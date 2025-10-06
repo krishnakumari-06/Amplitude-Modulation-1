@@ -78,7 +78,8 @@ Program
 
 
 
- ![Uploading image.png…]()
+ <img width="460" height="754" alt="Screenshot 2025-10-04 214356" src="https://github.com/user-attachments/assets/5e87e071-c772-4711-a19b-08a7dff5919c" />
+
 
 
 
@@ -87,7 +88,7 @@ Program
 Output Waveform
 
 
-![Uploading image.png…]()
+ <img width="1569" height="824" alt="Screenshot 2025-10-04 214241" src="https://github.com/user-attachments/assets/8c0afd88-3a6f-4d39-b473-3b988a28875d" />
 
 
 
